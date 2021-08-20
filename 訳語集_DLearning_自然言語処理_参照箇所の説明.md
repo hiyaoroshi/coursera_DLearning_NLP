@@ -15,7 +15,8 @@
 (*) 訳語集の参照箇所には下記のビデオ番号をスクリプトで拾って書き込んでいる
 
 1 分類とベクトル空間による自然言語処理 NLP with Classification and Vector Spaces  
-	1-1 ロジスティック回帰によるセンチメント分析 Sentiment Analysis with Logistic Regression  
+
+1-1 ロジスティック回帰によるセンチメント分析 Sentiment Analysis with Logistic Regression  
 		1-1-1 NLP専門講座にようこそ Welcome to the NLP Specialization  
 		1-1-2 コースにようこそ Welcome to Course  
 		1-1-3 教師付きMLとセンチメント分析 Supervised ML & Sentiment Analysis  
@@ -30,7 +31,7 @@
 		1-1-12 ロジスティック回帰 損失関数 Logistic Regression: Cost Function  
 		1-1-13 アンドリュー・ングとクリス・マニング Andrew Ng with Chris Manning  
 
-	1-2 ナイーズベイズによる感情分析 Sentiment Analysis with Naïve Bayes  
+1-2 ナイーズベイズによる感情分析 Sentiment Analysis with Naïve Bayes  
 		1-2-1 確率とベイズの定理 Probability and Bayes Rule  
 		1-2-2 ベイズの定理 Bayes' Rule  
 		1-2-3 ナイーブベイズのイントロNaïve Bayes' Introduction  
@@ -43,7 +44,7 @@
 		1-2-10 ナイーブベイズの前提 Naïve Bayes Assumptions  
 		1-2-11 エラー分析 Error Analysis  
 		
-	1-3 ベクトル空間モデル Vector Space Models  
+1-3 ベクトル空間モデル Vector Space Models  
 		1-3-1 ベクトル空間モデル Vector Space Models  
 		1-3-2 単語by単語と単語by文書 Word by Word and Word by Doc  
 		1-3-3 ユークリッド距離 Euclidean Distance  
@@ -53,7 +54,7 @@
 		1-3-7 視覚化とPCA Visualization and PCA  
 		1-3-8 PCAアルゴリズム PCA Algorithm  
 	
-	1-4 機械翻訳と文書検索  
+1-4 機械翻訳と文書検索  
 		1-4-1 概要 Overview  
 		1-4-2 単語ベクトルの変換 Transforming word vectors  
 		1-4-3 K近傍法 K-nearest neighbors  
@@ -65,7 +66,8 @@
 		1-4-9 アンドリュー・ングとキャサリーン・マッキューエン Andrew Ng with Kathleen McKeown  
 
 2 確率モデルによる自然言語処理 NLP with Probabilistic Models  
-	2-1 自動訂正 Autocorrect  
+
+2-1 自動訂正 Autocorrect  
 		2-1-1 コースのイントロ Intro to Course  
 		2-1-2 概要 Overview  
 		2-1-3 自動訂正 Autocorrect  
@@ -76,7 +78,7 @@
 		2-1-8 最小編集距離アルゴリズム2 Minimum edit distance algorithm II  
 		2-1-9 最小編集距離アルゴリズム3 Minimum edit distance algorithm III  
 
-	2-2 品詞タグ付けと隠れマルコフモデル   
+2-2 品詞タグ付けと隠れマルコフモデル   
 		2-2-1 品詞タグ付け Part of Speech Tagging  
 		2-2-2 マルコフチェーン Markov Chains  
 		2-2-3 マルコフチェーンと品詞タグ付け Markov Chains and POS Tags  
@@ -89,7 +91,7 @@
 		2-2-10 ビダビ前向きパス Viterbi: Forward Path  
 		2-2-11 ビタビ後ろ向きパス Viterbi: Backward Path  
 	
-	2-3 自動補完と言語モデル  
+2-3 自動補完と言語モデル  
 		2-3-1 Nグラム概要 N-Grams: Overview  
 		2-3-2 Nグラムと確率 N-grams and Probabilities  
 		2-3-3 列の確率 Sequence Probabilities  
@@ -100,7 +102,7 @@
 		2-3-8 平滑化 Smoothing  
 		2-3-9 週のまとめ Week Summary  
 	
-	2-4 ニューラルネットワークによる単語埋め込み   
+2-4 ニューラルネットワークによる単語埋め込み   
 		2-4-1 概要 Overview  
 		2-4-2 基本的な単語表現 Basic Word Representations  
 		2-4-3 単語埋込 Word Embeddings  
@@ -123,7 +125,8 @@
 		2-4-20 結論 Conclusion  
 
 3 シーケンスモデルによる自然言語処理 NLP with Sequence Models  
-	3-1 ニューラルネットワークによる感情分析 Neural Networks for Sentiment Analysis  
+
+3-1 ニューラルネットワークによる感情分析 Neural Networks for Sentiment Analysis  
 		3-1-1 コース3のイントロ Course 3 Introduction  
 		3-1-2 センティメント分析のためのニューラルネットワーク Neural Networks for Sentiment Analysis  
 		3-1-3 ニューラルネットワーク Trax Trax: Neural Networks  
@@ -134,7 +137,7 @@
 		3-1-8 他の層 Other Layers  
 		3-1-9 トレーニング Training  
 
-	3-2 RNN による言語モデル Recurrent Neural Networks for Language Modeling  
+3-2 RNN による言語モデル Recurrent Neural Networks for Language Modeling  
 		3-2-1 伝統的な言語モデル Traditional Language models  
 		3-2-2 再帰ニューラルネットワーク Recurrent Neural Networks  
 		3-2-3 RNNのアプリケーション Applications of RNNs  
@@ -144,7 +147,7 @@
 		3-2-7 ゲート付き再帰ユニット Gated Recurrent Units  
 		3-2-8 ディープ双方向RNN Deep and Bi-directional RNNs  
 
-	3-3 LSTM と固有表現 LSTMs and Named Entity Recognition  
+3-3 LSTM と固有表現 LSTMs and Named Entity Recognition  
 		3-3-1 RNNと傾斜の消滅 RNNs and Vanishing Gradients  
 		3-3-2 LSTMのイントロ Introduction to LSTMs  
 		3-3-3 LSTMのアーキテクチャ LSTM Architecture  
@@ -152,7 +155,7 @@
 		3-3-5 固有表現(NER)のトレーニング データ処理 Training NERs: Data Processing  
 		3-3-6 計算精度 Computing Accuracy  
 
-	3-4 結合型ネットワーク Siamese Networks  
+3-4 結合型ネットワーク Siamese Networks  
 		3-4-1 結合型ネットワーク Siamese Networks  
 		3-4-2 アーキテクチャ Architecture  
 		3-4-3 コスト関数 Cost Function  
@@ -163,7 +166,8 @@
 		3-4-8 トレーニングとテスト Training / Testing  
 
 4 アテンションモデルによる自然言語処理 NLP with Attention Models  
-	4-1 ニューラル機械翻訳 Neural Machine Translation  
+
+4-1 ニューラル機械翻訳 Neural Machine Translation  
 		4-1-1 コース4イントロ Course 4 Introduction  
 		4-1-2 シーケンス・シーケンスモデル Seq2seq  
 		4-1-3 アラインメント Alignment  
@@ -174,7 +178,7 @@
 		4-1-8 サンプリングとデコード Sampling and Decoding  
 		4-1-9 アンドリュー・ングとオレン・エツィオーニ Andrew Ng with Oren Etzioni  
 	
-	4-2 テキストの要約 Text Summarization  
+4-2 テキストの要約 Text Summarization  
 		4-2-1 トランスフォーマとRNN Transformers vs RNNs  
 		4-2-2 トランスフォーマのアプリケーション Transformer Applications  
 		4-2-3 ドット積アテンション Dot-Product Attention  
@@ -183,7 +187,7 @@
 		4-2-6 トランスフォーマデコーダ Transformer Decoder  
 		4-2-7 トランスフォーマによる要約作成 Transformer Summarizer  
 
-	4-3 質問への回答 Question Answering  
+4-3 質問への回答 Question Answering  
 		4-3-1 第3週の要約 Week 3 Overview  
 		4-3-2 NLPでの転移学習 Transfer Learning in NLP  
 		4-3-3 ELMo GPTBERT T5 ELMo, GPT, BERT, T5  
@@ -195,7 +199,7 @@
 		4-3-9 BLUEベンチマーク GLUE Benchmark  
 		4-3-10 質問への回答 Question Answering  
 	
-	4-4 チャットボット Chatbot  
+4-4 チャットボット Chatbot  
 		4-4-1 長いシーケンスのタスク Tasks with Long Sequences  
 		4-4-2 トランスフォーマの複雑性 Transformer Complexity  
 		4-4-3 LSHアテンション LSH Attention  
